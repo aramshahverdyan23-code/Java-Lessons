@@ -1,0 +1,5 @@
+Davit,Harutyunyan,2001,68.5
+Razmik,Sahakyan,2005,70.5
+Babken,Davtyan,1999,40.5
+Gevorg,Davtyan,2007,78.2
+Arman,Hakobyan,2003,80.5
